@@ -18,6 +18,7 @@
   }
   .listing-location::before {
 	content: url("/assets/location-pin.svg") / "";
+	vertical-align: middle;
   }
   
   section.listing a {
