@@ -4,11 +4,25 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
 
+## :sparkles: Features
+
+This app include:
+
+-   An Endpoint to host the Housing Location Data (hosted at [http://localhost:3000](http://localhost:3000)).
+
+-   A search input to find Housing Locations by City Name.
+
+-   A register form to buy a House with First Name, Last Name and E-mail. The data will stored at console log of your browser.
+
 ## Development server
 
+Run local server
 ![ng-serve](github/assets/ng-serve.png)
 
 The application will automatically reload if you change any of the source files.
+
+Run endpoint
+![json-server](github/assets/json-server.png)
 
 ## Code scaffolding
 
